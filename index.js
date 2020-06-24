@@ -1,2 +1,2 @@
-const user = require('./user');
+import user from './user';
 console.log(`Hi ${user.getName()}!`);
