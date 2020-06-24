@@ -8,4 +8,6 @@ Source code for [Usar Webpack 4 para transformar y empaquetar recursos de una ap
 1. Clone.
 1. ```npm install```
 1. ```npm run build```
-1. Explore the Webpack bundle ```./dist/main.js``` based on ```./index.js```.
+1. ```node ./dist/main.js```
+
+```./dist/main.js``` contains the webpack bundle based on ```./index.js``` file and dependencies.
